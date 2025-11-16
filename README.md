@@ -15,7 +15,7 @@ O site é **responsivo, moderno e fácil de usar**, ideal para estudantes, profi
 - HTML5  
 - CSS3  
 - JavaScript puro (Vanilla JS)  
-- Hospedagem gratuita possível: Vercel 
+- Hospedagem gratuita: Vercel 
 ---
 ## Deploy Online
 O site pode ser hospedado em Vercel.
