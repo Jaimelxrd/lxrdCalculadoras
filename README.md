@@ -18,7 +18,7 @@ O site é **responsivo, moderno e fácil de usar**, ideal para estudantes, profi
 - Hospedagem gratuita: Vercel 
 ---
 ## Deploy Online
-O site pode ser hospedado em Vercel.
+O site foi hospedado em Vercel.
 Link do site online: https://lxrdcalculadoras.vercel.app/index.html
 
 # Autor
