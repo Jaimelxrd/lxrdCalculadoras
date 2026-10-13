@@ -10,7 +10,7 @@ O site é **responsivo, moderno e fácil de usar**, ideal para estudantes, profi
 
 ---
 
-## 🛠 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5  
 - CSS3  
